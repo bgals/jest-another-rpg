@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bgals/jest-another-rpg#readme",
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^28.1.2"
